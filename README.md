@@ -1,4 +1,6 @@
-# Satellite Network Predictor - Business Problem
+![pexels-pixabay-41006](https://user-images.githubusercontent.com/85582924/213474309-4e490a67-3362-41d0-9086-833a1178bfb1.jpg)
+
+# SpaceX - Satellite Failure Prediction
 ----
 
 **Introduction:** SpaceX, a leading innovator in the satellite industry, provides advanced satellite-based services and technology to customers globally. With the increasing demand for satellite-based internet and communications, the company is dedicated to ensuring the reliability and longevity of their satellite fleet while minimizing operational costs. One of their most notable ventures is the Starlink program, which aims to provide high-speed internet access to remote and underserved areas around the world through a network of thousands of satellites in low Earth orbit. Starlink's goal is to offer satellite-based internet access to individuals, businesses, and organizations, who would otherwise be unable to access high-speed internet, thus closing the digital divide and connecting the world.
